@@ -4,6 +4,10 @@ The "Fill the Box with Dots" game is a fun interactive web application built usi
 where users click inside a box to dynamically add colored dots. The game enhances user engagement by offering a simple 
 yet visually appealing experience with dot placement and customization.This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
+##screenshot of the application
+![Screenshot 2025-05-10 153146](https://github.com/user-attachments/assets/458effcd-3c4d-4dde-b1d9-167a11700697)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
