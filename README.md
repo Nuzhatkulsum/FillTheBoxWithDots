@@ -6,6 +6,10 @@ yet visually appealing experience with dot placement and customization.This proj
 
 ##screenshot of the application
 ![Screenshot 2025-05-10 153146](https://github.com/user-attachments/assets/458effcd-3c4d-4dde-b1d9-167a11700697)
+![Screenshot 2025-05-10 153157](https://github.com/user-attachments/assets/cbb62d68-0dd1-4be7-a44a-b943e64690e6)
+![Screenshot 2025-05-10 153220](https://github.com/user-attachments/assets/aaf1fa24-02c1-47a9-b650-bf07e934b5af)
+
+
 
 
 ## Development server
